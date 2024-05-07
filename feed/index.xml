@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Larsy&#039;s Blog</title>
+	<atom:link href="/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 10:49:41 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-Larsy-Lab_transparent-1-32x32.png</url>
+	<title>Larsy&#039;s Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Setting Up blog.larsylab.org</title>
+		<link>/2024/05/setting-up-blog-larsylab-org</link>
+					<comments>/2024/05/setting-up-blog-larsylab-org#respond</comments>
+		
+		<dc:creator><![CDATA[lawrencemillard1304]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 10:49:41 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[tech]]></category>
+		<guid isPermaLink="false">/?p=25</guid>
+
+					<description><![CDATA[Used 000webhost.com.Thats why this website is so slow on a new post Linked it to my cloudflare domain As it [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Used <a href="https://www.000webhost.com/">000webhost.com</a>.<br>Thats why this website is so slow on a new post</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.ibb.co/GVV5NzS/Screenshot-2024-05-07-at-11-42-46.png" alt=""/></figure>
+
+
+
+<p>Linked it to my cloudflare domain </p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="188" src="/wp-content/uploads/2024/05/Screenshot-2024-05-07-at-11.45.58-1024x188.png" alt="" class="wp-image-27" srcset="/wp-content/uploads/2024/05/Screenshot-2024-05-07-at-11.45.58-1024x188.png 1024w, /wp-content/uploads/2024/05/Screenshot-2024-05-07-at-11.45.58-300x55.png 300w, /wp-content/uploads/2024/05/Screenshot-2024-05-07-at-11.45.58-768x141.png 768w, /wp-content/uploads/2024/05/Screenshot-2024-05-07-at-11.45.58.png 1208w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>As it came with free ddos protectoin and cloudflare pages for my main site <a href="http://larsylab.org/">larsylab.org</a>.</p>
+
+
+
+<p>I also added a link shortner <a href="http://short.io/">http://short.io/</a>. Which for me is link.larsylab.org</p>
+
+
+
+<p>Notes on wordpress (000webhost):<br>300mb limted storage</p>
+
+
+
+<p>about 100 posts with no images</p>
+
+
+
+<p>so make a static web site with a tool<br>i use <strong>Astra</strong> theme</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/05/setting-up-blog-larsylab-org/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
